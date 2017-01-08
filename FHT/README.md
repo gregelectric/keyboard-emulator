@@ -1,2 +1,0 @@
-# FHT
-Arduino FHT
